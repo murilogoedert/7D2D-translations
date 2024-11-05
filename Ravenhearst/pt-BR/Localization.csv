@@ -486,7 +486,7 @@ challengeGroupRavenhearstStations,Estações Avançadas
 challengeGroupRavenhearstVehicles,Veículos
 challengeHarvestHoney,"Colha Favos de Mel"
 challengeHarvestHoneyDesc,"Colher [DECEA3]Tocos de Árvore[-] com [DECEA3]Machados[-] tem uma chance de produzir [DECEA3]Favos de Mel[-], que podem ser usados para tratar e reduzir os efeitos negativos de uma [DECEA3]Infecção[-].\n\n[DECEA3]Infecção[-] começará a drenar sua [DECEA3]Energia[-] e eventualmente seus principais [DECEA3]Atributos[-]. [DECEA3]Infecções[-] são letais dentro de [DECEA3]7[-] dias no jogo.\n\nOs tratamentos para [DECEA3]Infecção[-] reduzem a progressão da [DECEA3]Infecção[-] pela quantidade listada no item.\n\nO banner de buff de [DECEA3]Infecção[-] no HUD mudará para mostrar o status de melhoria."
-challengeHarvestHoneyShort,"Colha Favos de Mel de Tocos de Árvore com qualquer Machado.
+challengeHarvestHoneyShort,"Colha Favos de Mel de Tocos de Árvore com qualquer Machado."
 challengeHarvestLeather,"Colha Tiras de Couro"
 challengeHarvestLeatherDesc,"[DECEA3]Leather Strips[-] são um ingrediente usado principalmente em [DECEA3]Armaduras[-] e receitas de [DECEA3]Modificação de Armadura[-].\n\nPode ser colhido de lugares como [DECEA3]Animais[-] mortos, [DECEA3]Sofás de Couro[-] e [DECEA3]Cabines de Restaurante de Couro[-]."
 challengeHarvestLeatherShort,"Colha algumas Tiras de Couro de Cabines de Restaurante com um Machado de Pedra."
